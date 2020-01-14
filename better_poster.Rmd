@@ -20,7 +20,7 @@ affiliation:
   - num: 1
     address: Theory and Practice in Teacher Education, University of Tennessee, Knoxville, 
 main_findings:
-  - "By sending **text messages** to participants in STEM education research, it is possible to **study - and even impact** - their teaching and learning experiences."
+  - "By sending **text messages** to participants in STEM education research, it is possible to **study—and even impact**—their teaching and learning experiences."
 logoleft_name: https&#58;//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tennessee_Volunteers_logo.svg/1200px-Tennessee_Volunteers_logo.svg.png
 logoright_name: https&#58;//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Tennessee_Volunteers_logo.svg/1200px-Tennessee_Volunteers_logo.svg.png
 logocenter_name: https&#58;//drive.google.com/uc?id=1q4yUBWSbVLltgm9TPc4GO8qhCUdJh4yO
@@ -45,7 +45,7 @@ options(knitr.table.format = "html")
 
 # Introduction
 
-The goal of this project is to investigate how sustained, individual interest develops from finer-grained experiences of situational interest that students have in introductory computer science (CS) courses. This project will accomplish this goal using the experience sampling method (Hektner, Schmidt, & Csikszentmihalyi, 2007), which is an "intensive" longitudinal research method that asks participants to report on their immediate experiences at many occasions. Prior research has not adequately investigated what drives individual differences in CS interest at the level at which policymakers and educators can most effectively act - at a situation-to-situation level - rather than in terms of what happens in courses, programs of study overall. 
+The goal of this project is to investigate how sustained, individual interest develops from finer-grained experiences of situational interest that students have in introductory computer science (CS) courses. This project will accomplish this goal using the experience sampling method (Hektner, Schmidt, & Csikszentmihalyi, 2007), which is an "intensive" longitudinal research method that asks participants to report on their immediate experiences at many occasions. Prior research has not adequately investigated what drives individual differences in CS interest at the level at which policymakers and educators can most effectively act — at a situation-to-situation level — rather than in terms of what happens in courses, programs of study overall. 
 
 ## Objectives
 
@@ -62,9 +62,9 @@ There are many different use cases for Short Message Survey, including
 
 ## Study Constructs
 
-Our research project will explore how students’ initial interest - as well as their individual motivational characteristics, such as CS self-concept, and CS self-efficacy - relate to interest at a situation-to-situation level. 
+Our research project will explore how students’ initial interest—as well as their individual motivational characteristics, such as CS self-concept, and CS self-efficacy—relate to interest at a situation-to-situation level. 
 
-Furthermore, we will also explore how contextual factors - those internal to students, such as how challenging they found the activities, as well as those external to students, such as the focus of each class - relate to students’ situational interest.
+Furthermore, we will also explore how contextual factors—those internal to students, such as how challenging they found the activities, as well as those external to students, such as the focus of each class—relate to students’ situational interest.
 
 Overall, we hope to better understand how students’ situational interest relates to changes in their longer-term, individual interest.
 
@@ -110,15 +110,6 @@ png2_dest <- "images/ESM_survey_2.png"
 
 comb2pngs(c(png1_dest, png2_dest))
 ```
-
-<!--
-To reference a citation you can add your `.bib` file to the working directory and name it in the YAML metadata or generate an automated one as done here, then you only need to reference the label value in the `.bib` file. For example this package is built on top of the wonderful {pagedown} package and I will cite it at the end of this sentance using this in the rmd `[@R-pagedown]` [@R-pagedown].
-
-To get a better understanding of how to include features like these please refer to the {posterdown} [wiki](https://github.com/posterdown/wiki).
-
-**_Now on to the results!_**
-
--->
 
 ## Interventions
 
