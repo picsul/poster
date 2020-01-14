@@ -44,32 +44,16 @@ There are many different use cases, including
 
 Static Survey
 ================================================================================
-<!-- 
-Lorem ipsum dolor **sit amet**, consectetur adipiscing elit. Donec ut volutpat elit. Sed laoreet accumsan mattis. Integer sapien tellus, auctor ac blandit eget, sollicitudin vitae lorem. Praesent dictum tempor pulvinar. Suspendisse potenti. Sed tincisvgsvgdunt varius ipsum, et porta nulla suscipit et. Etiam congue bibendum felis, ac dictum augue cursus a. **Donec** magna eros, iaculis sit amet placerat quis, laoreet id est.
-
-```{r, cars-plot, fig.width=6, fig.height=3, dev='svg', out.width='100%', fig.cap='Figure Caption.', echo=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-par(mar = c(4, 4, .1, .1), las = 1)
-boxplot(
-  Sepal.Length ~ Species, data = iris, horizontal = TRUE,
-  col = c('limegreen', 'steelblue', 'orange'), notch = TRUE
-)
-```
-
-Test citations @R-base @R-pagedown. See Figure \@ref(fig:cars-plot).
-
--->
 
 Short message survey can used to send out links to a web based survey via SMS message, many of which can then be directly completed in a mobile browser
 
-```{r out.width = "40%"}
+```{r out.width = "40%", echo = FALSE}
 library(knitr)
 include_graphics('images/static_link.jpg')
 include_graphics('images/browser_survey.jpg')
 ```
 
-Study Context
+Study Context 
 ================================================================================
 
 The goal of this project is to investigate how sustained, individual interest develops from finer-grained experiences of situational interest that students have in introductory CS courses. This project will accomplish this goal using the experience sampling method (Hektner, Schmidt, & Csikszentmihalyi, 2007), which is a longitudinal research method that asks participants to report on their immediate experiences at many occasions. Prior research has not adequately investigated what drives individual differences in CS interest at the level at which policymakers and educators can most effectively act, namely, at a situation-to-situation level, rather than in terms of what happens in courses, programs of study, or occupations in general and overall. 
@@ -92,7 +76,7 @@ Short message survey is especially useful for asking students ESM questions.
 The ESM questions are initiated by a prompt SMS message, and completed by the student responding with SMS messages.
 
 
-```{r out.width = "40%"}
+```{r out.width = "40%", echo = FALSE}
 include_graphics('images/ESM_survey.jpg')
 include_graphics('images/ESM_survey_2.jpg')
 ```
