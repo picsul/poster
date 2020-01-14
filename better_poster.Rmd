@@ -8,7 +8,11 @@ author:
     affil: 1
     main: true
     email: alishins@utk.edu
-  - name: Joshua Rosenberg
+  - name: Omiya Sultana
+    affil: 1
+    main: true
+    email: osultana@vols.utk.edu
+  - name: Joshua M. Rosenberg, Ph.D.
     affil: 1
     main: true
     email: jmrosenberg@utk.edu
