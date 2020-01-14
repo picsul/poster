@@ -1,6 +1,6 @@
 ---
 title: "Measuring what matters in-the-moment: An experience sampling approach to understanding the development of interest in computer science"
-author: "Alex Lishinski^1^, Joshua Rosenberg^1"
+author: "Alex Lishinski^1^, Joshua Rosenberg^1^"
 institute: "1. University of Tennessee - Knoxville, Theory and Practice in Teacher Education"
 date: "2020-1-16"
 references:
@@ -45,7 +45,7 @@ There are many different use cases, including
 Static Survey
 ================================================================================
 <!-- 
-Lorem ipsum dolor **sit amet**, consectetur adipiscing elit. Donec ut volutpat elit. Sed laoreet accumsan mattis. Integer sapien tellus, auctor ac blandit eget, sollicitudin vitae lorem. Praesent dictum tempor pulvinar. Suspendisse potenti. Sed tincidunt varius ipsum, et porta nulla suscipit et. Etiam congue bibendum felis, ac dictum augue cursus a. **Donec** magna eros, iaculis sit amet placerat quis, laoreet id est.
+Lorem ipsum dolor **sit amet**, consectetur adipiscing elit. Donec ut volutpat elit. Sed laoreet accumsan mattis. Integer sapien tellus, auctor ac blandit eget, sollicitudin vitae lorem. Praesent dictum tempor pulvinar. Suspendisse potenti. Sed tincisvgsvgdunt varius ipsum, et porta nulla suscipit et. Etiam congue bibendum felis, ac dictum augue cursus a. **Donec** magna eros, iaculis sit amet placerat quis, laoreet id est.
 
 ```{r, cars-plot, fig.width=6, fig.height=3, dev='svg', out.width='100%', fig.cap='Figure Caption.', echo=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
